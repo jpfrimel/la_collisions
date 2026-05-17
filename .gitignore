@@ -1,0 +1,33 @@
+# Data files (download from LA City portal)
+*.csv
+
+# Binary model artifacts
+*.npy
+*.pkl
+
+# Credentials — never publish
+serviceAccountKey.json
+
+# Older precompute versions
+sliding_window_results.json
+sliding_window_results_old.json
+sliding_window_results_v2.json
+
+# Exploratory analysis outputs
+analysis_outputs/
+
+# Exploratory analysis scripts
+analysis_*.py
+analysis_utils.py
+analysis_grid_change.py
+alcohol_counts.py
+deepdive.py
+feature_audit.py
+feature_table.py
+collision_pull.py
+collision_pull_test.py
+test_features.py
+
+# Python cache
+__pycache__/
+*.pyc
