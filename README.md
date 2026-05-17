@@ -75,4 +75,5 @@ After downloading, name the files `la_collisions_<year>.csv` (e.g. `la_collision
 I appreciate you viewing my work. Please let me know if you have any thoughts, feedback, critiques, or questions.
 
 Best,
+
 J.P. Frimel
