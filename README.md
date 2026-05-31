@@ -39,7 +39,6 @@ This repository contains the core Python pipeline used to collect, clean, train,
 
 ## Pipeline — How the Files Connect
 
-Run in this order:
 
 | Step | File | What it does |
 |------|------|--------------|
